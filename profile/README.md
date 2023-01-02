@@ -11,7 +11,10 @@
 # openapi-processor
 
 an [OpenAPI][openapi] interface only & model java code generator for [Spring Boot][springboot] & [Micronaut][micronaut].
- 
+
+# discussions
+
+please use the discussion on the organizazion level.
 
 # documentation
 
