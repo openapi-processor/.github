@@ -17,7 +17,7 @@ The target programming language is Java, which makes the generated code usable f
 
 # discussions
 
-please use the discussions on the organizazion level.
+please use the discussions on the organization level.
 
 # documentation
 
