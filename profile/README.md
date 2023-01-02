@@ -8,7 +8,7 @@
 ![openapi-processor-spring logo](images/openapi-processor-spring@1280x200.png)
 -->
 
-# openapiprocessor
+# openapi-processor
 
 openapi-processor is a small framework that converts an [OpenAPI][openapi] yaml description to a target format. The primary targets are [Spring Boot][springboot] & [Micronaut][micronaut]. It generates framework specific interfaces and pojos based on the API and you implement the interfaces in your controllers.
 
