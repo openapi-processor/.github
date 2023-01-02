@@ -8,9 +8,12 @@
 ![openapi-processor-spring logo](images/openapi-processor-spring@1280x200.png)
 -->
 
-# openapi-processor
+# openapiprocessor
 
-an [OpenAPI][openapi] interface only & model java code generator for [Spring Boot][springboot] & [Micronaut][micronaut].
+openapi-processor is a small framework that converts an [OpenAPI][openapi] yaml description to a target format. The primary targets are [Spring Boot][springboot] & [Micronaut][micronaut]. It generates framework specific interfaces and pojos based on the API and you implement the interfaces in your controllers.
+
+The target programming language is Java, which makes the generated code usable from most JVM languages.
+
 
 # discussions
 
@@ -18,7 +21,7 @@ please use the discussion on the organizazion level.
 
 # documentation
 
-See [here][oap-docs].
+See [here][oap-docs] for details.
 
 # snapshot repository
 
